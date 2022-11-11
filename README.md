@@ -1,4 +1,4 @@
-# Vue-Js-live-chat
+# Vue-Js-Muso-Ninjas
 Vue Js Music Playlist app learned from Udemy 'Build Web Apps with Vue JS 3 &amp;amp; Firebase' with the instructor The Net Ninja.
 
 # Project setup
