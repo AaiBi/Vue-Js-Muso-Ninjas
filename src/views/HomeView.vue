@@ -1,12 +1,15 @@
 <template>
   <div class="home">
-    <p>Homepage</p>
+    <ListView/>
   </div>
 </template>
 
 <script>
+import ListView from '../components/ListView.vue'
 
 export default {
-  name: 'HomeView'
+  name: 'HomeView',
+  components: { ListView },
+  
 }
 </script>
